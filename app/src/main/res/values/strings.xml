@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="Title">Notes App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="config_password">Config Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="You_have_Acconut">Bạn đã có tài khoản?</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="txt_login">Login</string>
+    <string name="You_have_not_Account">Chưa có tài khoản?</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="notes">NOTES</string>
+    <string name="delete_note">DELETE NOTE</string>
+</resources>

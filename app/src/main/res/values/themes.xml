@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._03_Notes_App_With_Firebase" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/Background_Color</item>
+        <item name="colorPrimaryVariant">@color/Background_Color</item>
+    </style>
+
+    <style name="Theme._03_Notes_App_With_Firebase" parent="Base.Theme._03_Notes_App_With_Firebase" />
+</resources>
